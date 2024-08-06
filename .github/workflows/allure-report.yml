@@ -1,7 +1,7 @@
 name: allure-cypress-report
 
 on: 
-  push:
+  push: #
   workflow_dispatch: # this line to enable manual triggers
 
 jobs:
